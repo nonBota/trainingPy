@@ -1,4 +1,4 @@
-# training in python language in codewars
+# Training using python in codeWars
 
 Content:
 1.ReverseString
